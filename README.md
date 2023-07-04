@@ -1,6 +1,6 @@
 ## Arthur Bicego Quintaneira
 
-I am in the process of career migratoin from Finance to IT, so I am looking for an opportunity as a Software Developer or Software Engineer (intern or junior) for the Web, as a front end, back end or full stack.
+I am in the process of career migration from Finance to IT, so I am looking for an opportunity as a Software Developer or Software Engineer (intern or junior) for the Web, as a front end, back end or full stack.
 
 ## Skills and Experience
 
