@@ -1,16 +1,26 @@
-### Hi there 👋
+## Arthur Bicego Quintaneira
 
-<!--
-**arthurbicego/arthurbicego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am in the process of career migratoin from Finance to IT, so I am looking for an opportunity as a Software Developer or Software Engineer (intern or junior) for the Web, as a front end, back end or full stack.
 
-Here are some ideas to get you started:
+## Skills and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>Java</li>
+  <li>Springboot</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>Angular</li>
+  <li>Git</li>
+</ul>
+
+## Contact me
+
+<a href="mailto:arthur.bicego@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/>
+</a>
+
+<a href="https://www.linkedin.com/in/arthurbicego/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/>
+</a>
