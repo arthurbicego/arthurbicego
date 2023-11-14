@@ -13,6 +13,8 @@ I am in the process of career migration from Finance to IT, so I am looking for 
   <li>TypeScript</li>
   <li>Angular</li>
   <li>Git</li>
+  <li>PHP</li>
+  <li>Laravel</li>
 </ul>
 
 ## Contact me
