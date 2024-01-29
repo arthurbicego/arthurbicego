@@ -11,6 +11,7 @@ I am in the process of career migration from Finance to IT, so I am looking for 
   <li>CSS</li>
   <li>JavaScript</li>
   <li>TypeScript</li>
+  <li>React</li>
   <li>Angular</li>
   <li>Git</li>
   <li>PHP</li>
