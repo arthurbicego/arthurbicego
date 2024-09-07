@@ -2,7 +2,7 @@
 
 I decided to switch my career from Finance to IT because I imagined it would be really cool to work with programming. And I was right!
 
-Now, I'm a grateful fullstack software engineer.
+Now, I'm a grateful full-stack software engineer.
 
 ## Skills and Experience
 
