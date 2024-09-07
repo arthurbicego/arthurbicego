@@ -1,8 +1,8 @@
 ## Arthur Bicego Quintaneira
 
-I decided to switch my career from Finance to IT because I imagined it would be really cool to work with programming. And I was right!
+I decided to switch my career from Finance to IT because I thought it would be awesome to work as a programmer. And I was right!
 
-Now, I'm a grateful full-stack software engineer.
+Now, I am a full-stack developer.
 
 ## Skills and Experience
 
