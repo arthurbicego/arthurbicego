@@ -10,9 +10,6 @@ Now, I am a full-stack developer.
 Front-end:
   <li>Vue.js | Quasar | HTML | CSS | Sass | JavaScript | ECMAScript | TypeScript </li>
 <br>
-Design:
-  <li>Adobe Photoshop |  Adobe XD </li>
-<br>
 Back-end:
   <li>Java | Spring Boot | SQL | DBeaver </li>
 <br>
